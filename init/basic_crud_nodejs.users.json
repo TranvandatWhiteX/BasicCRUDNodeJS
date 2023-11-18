@@ -1,0 +1,143 @@
+[{
+  "_id": {
+    "$oid": "65583d5600f56dd5fbb6a833"
+  },
+  "name": "Naruto",
+  "email": "naruto@gmail.com",
+  "phone": "0867628074",
+  "image": "image_1700281686610_Naruto.jpg",
+  "created": {
+    "$date": "2023-11-18T04:28:06.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65583d7300f56dd5fbb6a836"
+  },
+  "name": "Luffy",
+  "email": "luffy.onepiece@gmail.com",
+  "phone": "0867628075",
+  "image": "image_1700281715783_Luffy.jpg",
+  "created": {
+    "$date": "2023-11-18T04:28:35.785Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65583d8d00f56dd5fbb6a839"
+  },
+  "name": "Nami",
+  "email": "nami.onepiece@gmail.com",
+  "phone": "0867628071",
+  "image": "image_1700281741680_Nami.jpg",
+  "created": {
+    "$date": "2023-11-18T04:29:01.682Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65583db000f56dd5fbb6a83c"
+  },
+  "name": "Zoro",
+  "email": "zoro.onepiece@gmail.com",
+  "phone": "0867628079",
+  "image": "image_1700281776317_Zoro.jpg",
+  "created": {
+    "$date": "2023-11-18T04:29:36.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65583dd000f56dd5fbb6a83f"
+  },
+  "name": "Sanji",
+  "email": "sanji.onepiece@gmail.com",
+  "phone": "086728076",
+  "image": "image_1700281808052_Sanji.jpg",
+  "created": {
+    "$date": "2023-11-18T04:30:08.054Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65583ded00f56dd5fbb6a842"
+  },
+  "name": "Goku",
+  "email": "goku.dragonball@gmail.com",
+  "phone": "0867628073",
+  "image": "image_1700281837553_Goku.jpg",
+  "created": {
+    "$date": "2023-11-18T04:30:37.554Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65583e1000f56dd5fbb6a845"
+  },
+  "name": "Usopp",
+  "email": "usopp.onepiece@gmail.com",
+  "phone": "0867635147",
+  "image": "image_1700281872105_Usopp.jpg",
+  "created": {
+    "$date": "2023-11-18T04:31:12.106Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65583e3900f56dd5fbb6a848"
+  },
+  "name": "Vegeta",
+  "email": "vegeta.dragonball@gmail.com",
+  "phone": "0867625147",
+  "image": "image_1700281913177_Vegeta.jpg",
+  "created": {
+    "$date": "2023-11-18T04:31:53.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65583e5500f56dd5fbb6a84b"
+  },
+  "name": "Trunks",
+  "email": "trunks.dragonball@gmail.com",
+  "phone": "0867625369",
+  "image": "image_1700281941663_Trunks.jpg",
+  "created": {
+    "$date": "2023-11-18T04:32:21.664Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65583e7400f56dd5fbb6a84e"
+  },
+  "name": "Gaara",
+  "email": "gaara.naruto@gmail.com",
+  "phone": "0867928071",
+  "image": "image_1700281972906_Garaa.jpg",
+  "created": {
+    "$date": "2023-11-18T04:32:52.910Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65583e8d00f56dd5fbb6a851"
+  },
+  "name": "Sabo",
+  "email": "sabo.onepiece@gmail.com",
+  "phone": "0867625963",
+  "image": "image_1700281997087_Sabo.jpg",
+  "created": {
+    "$date": "2023-11-18T04:33:17.088Z"
+  },
+  "__v": 0
+}]
